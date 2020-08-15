@@ -1,5 +1,6 @@
 # js-dynamic-constants
 
+[![build](https://img.shields.io/github/workflow/status/thearunkumar/js-dynamic-constants/Node.js%20Package?style=flat-square)](https://github.com/thearunkumar/js-dynamic-constants/actions?query=workflow%3A%22Node.js+Package%22)
 [![issues](https://img.shields.io/github/issues/thearunkumar/js-dynamic-constants?style=flat-square)](https://github.com/thearunkumar/js-dynamic-constants/issues)
 [![forks](https://img.shields.io/github/forks/thearunkumar/js-dynamic-constants?style=flat-square)](https://github.com/thearunkumar/js-dynamic-constants/network/members)
 [![stars](	https://img.shields.io/github/stars/thearunkumar/js-dynamic-constants?style=flat-square)](https://github.com/thearunkumar/js-dynamic-constants/stargazers)
