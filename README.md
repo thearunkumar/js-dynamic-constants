@@ -1,9 +1,13 @@
 # js-dynamic-constants
 
-[![issues](https://img.shields.io/github/issues/thearunkumar/js-dynamic-constants?style=flat-square)](https://img.shields.io/github/issues/thearunkumar/js-dynamic-constants?style=flat-square)
-[![forks](https://img.shields.io/github/forks/thearunkumar/js-dynamic-constants?style=flat-square)](https://img.shields.io/github/forks/thearunkumar/js-dynamic-constants?style=flat-square)
-[![stars](	https://img.shields.io/github/stars/thearunkumar/js-dynamic-constants?style=flat-square)](	https://img.shields.io/github/stars/thearunkumar/js-dynamic-constants?style=flat-square)
-[![license](https://img.shields.io/github/license/thearunkumar/js-dynamic-constants?style=flat-square)](https://img.shields.io/github/license/thearunkumar/js-dynamic-constants?style=flat-square)
+[![issues](https://img.shields.io/github/issues/thearunkumar/js-dynamic-constants?style=flat-square)](https://github.com/thearunkumar/js-dynamic-constants/issues)
+[![forks](https://img.shields.io/github/forks/thearunkumar/js-dynamic-constants?style=flat-square)](https://github.com/thearunkumar/js-dynamic-constants/network/members)
+[![stars](	https://img.shields.io/github/stars/thearunkumar/js-dynamic-constants?style=flat-square)](https://github.com/thearunkumar/js-dynamic-constants/stargazers)
+[![license](https://img.shields.io/github/license/thearunkumar/js-dynamic-constants?style=flat-square)](https://github.com/thearunkumar/js-dynamic-constants/blob/master/LICENSE)
+[![version](https://img.shields.io/github/package-json/v/thearunkumar/js-dynamic-constants?style=flat-square)]()
+[![minified size](https://img.shields.io/bundlephobia/min/js-dynamic-constants?style=flat-square)]()
+[![package version](https://img.shields.io/github/package-json/v/thearunkumar/js-dynamic-constants?style=flat-square)]()
+[![keywords](https://img.shields.io/github/package-json/keywords/thearunkumar/js-dynamic-constants?style=flat-square)]()
 
 Easy dynamic template strings / constants for production scale application
 
