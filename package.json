@@ -1,0 +1,21 @@
+{
+  "name": "js-dynamic-constants",
+  "version": "1.0.0",
+  "description": "Easy dynamic template strings / constants for production scale application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js-template-string",
+    "js-dynamic-strings",
+    "templates",
+    "strings",
+    "es6",
+    "properties",
+    "constants",
+    "js-dynamic-constants"
+  ],
+  "author": "Arunkumar Srisailapathi",
+  "license": "MIT"
+}
