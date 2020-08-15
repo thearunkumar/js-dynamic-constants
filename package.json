@@ -1,6 +1,6 @@
 {
   "name": "js-dynamic-constants",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easy dynamic template strings / constants for production scale application",
   "main": "index.js",
   "scripts": {
@@ -18,10 +18,5 @@
     "js-dynamic-constants"
   ],
   "author": "Arunkumar Srisailapathi",
-  "license": "MIT",
-  "devDependencies": {
-    "copy-webpack-plugin": "^6.0.3",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
-  }
+  "license": "MIT"
 }
