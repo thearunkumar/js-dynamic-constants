@@ -1,4 +1,10 @@
 # js-dynamic-constants
+
+[![issues](https://img.shields.io/github/issues/thearunkumar/js-dynamic-constants?style=flat-square)](https://img.shields.io/github/issues/thearunkumar/js-dynamic-constants?style=flat-square)
+[![forks](https://img.shields.io/github/forks/thearunkumar/js-dynamic-constants?style=flat-square)](https://img.shields.io/github/forks/thearunkumar/js-dynamic-constants?style=flat-square)
+[![stars](	https://img.shields.io/github/stars/thearunkumar/js-dynamic-constants?style=flat-square)](	https://img.shields.io/github/stars/thearunkumar/js-dynamic-constants?style=flat-square)
+[![license](https://img.shields.io/github/license/thearunkumar/js-dynamic-constants?style=flat-square)](https://img.shields.io/github/license/thearunkumar/js-dynamic-constants?style=flat-square)
+
 Easy dynamic template strings / constants for production scale application
 
 ### Usage
