@@ -20,8 +20,8 @@
  *
  * NOTE: The interpolation is 0 indexed.
  */
-export const getTemplateString = (templateText) => {
-  return (...strings) => {
+export const getTemplateString = (templateText: string) => {
+  return (...strings: string[]) => {
     if (strings && strings.length) {
       strings.forEach((string, i) => {
         templateText = templateText.replace('${' + i + '}', string);

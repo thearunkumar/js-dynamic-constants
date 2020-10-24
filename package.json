@@ -2,9 +2,9 @@
   "name": "js-dynamic-constants",
   "version": "1.0.9",
   "description": "Easy dynamic template strings / constants for production scale application",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js",
+    "build": "rm -rf ./dist && tsc",
     "test": "exit(0)"
   },
   "keywords": [
@@ -22,5 +22,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/thearunkumar/js-dynamic-constants.git"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
   }
 }
