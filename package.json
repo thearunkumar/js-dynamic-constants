@@ -1,8 +1,9 @@
 {
   "name": "js-dynamic-constants",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Easy dynamic template strings / constants for production scale application",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "rm -rf ./dist && tsc",
     "test": "exit(0)"
