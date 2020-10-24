@@ -1,6 +1,6 @@
 {
   "name": "js-dynamic-constants",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Easy dynamic template strings / constants for production scale application",
   "main": "dist/index.js",
   "scripts": {
